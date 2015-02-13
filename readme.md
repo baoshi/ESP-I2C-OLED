@@ -4,7 +4,7 @@ This project demostrates how to drive SSD1305/1306 based OLED panel using ESP826
 The project is build with ESP8266 RTOS SDK available at https://github.com/espressif/esp_iot_rtos_sdk, and compile using Espressif supplied VM.
 Other useful modules within this project includes:
 - i2c.h/i2c.c is software bitbanged I2C driver
-- shell.h/shell.c/shell_cmds.c implements command line shell on UART0 (9600,8,N,1), with rudimentary line editing compatiblity.
+- shell.h/shell.c/shell_cmds.c implements command line shell on UART0 (9600,8,N,1), with rudimentary line editing capability.
 - dmsg.h/dmsg.c implements a simple tx-only debug output on UART1 (74480,8,N,1)
 - xmit/xsnprintf implements printf-alike output functions, based on Chan's excellent xprintf code.
 
