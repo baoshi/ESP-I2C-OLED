@@ -14,6 +14,6 @@ If you feel this code is useful, please support my ESP8266 breadboard adapter on
 https://www.tindie.com/products/Ba0sh1/esp8266-esp-0712-full-io-breadboard-adapter/
 
 Copyright (c) 2015, Baoshi Zhu. All rights reserved.
-Source code in this project governed by a BSD-style license that can be found in the LICENSE.txt file. 
+Source code in this project is governed by BSD-style license that can be found in the LICENSE.txt file. 
 
  
